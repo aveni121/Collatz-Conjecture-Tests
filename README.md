@@ -10,8 +10,10 @@ The programs are written in different languages. One is in C++ and the other one
 Python. The reason being is that, there were erros encountered in the C++ program when the numbers became larger and larger the computations became in accurate.
 The one python computes fine and accurately as far as I know. The output is printed to the terminal. The code can be also tweaked a bit if you just want to display it on
 the terminal.
+```
 Out put example would look like:
 1: leads back to 1
 2: leads back to 1
 3: leads back to 1
 etc...
+```
